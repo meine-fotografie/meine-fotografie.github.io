@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Meine-Fotografie - Theme Mobirise 5",
-    "currentPage": "home.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -69,7 +69,7 @@
     },
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow:\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "home.html": {
