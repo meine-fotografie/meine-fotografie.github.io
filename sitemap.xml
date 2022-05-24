@@ -3,9 +3,6 @@
 		<loc>https://gaming-angebote.github.io/home.html/home.html</loc>
 	</url>
 	<url>
-		<loc>https://gaming-angebote.github.io/home.html/produkte.html</loc>
-	</url>
-	<url>
 		<loc>https://gaming-angebote.github.io/home.html/frage.html</loc>
 	</url>
 	<url>
@@ -21,12 +18,15 @@
 		<loc>https://gaming-angebote.github.io/home.html/404.shtml</loc>
 	</url>
 	<url>
-		<loc>https://gaming-angebote.github.io/home.html/bilderrahmen.html</loc>
-	</url>
-	<url>
 		<loc>https://gaming-angebote.github.io/home.html/studio.html</loc>
 	</url>
 	<url>
-		<loc>https://gaming-angebote.github.io/home.html/page9.html</loc>
+		<loc>https://gaming-angebote.github.io/home.html/kameras.html</loc>
+	</url>
+	<url>
+		<loc>https://gaming-angebote.github.io/home.html/fotos.html</loc>
+	</url>
+	<url>
+		<loc>https://gaming-angebote.github.io/home.html/blog.html</loc>
 	</url>
 </urlset>
